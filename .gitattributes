@@ -1,0 +1,2 @@
+# 将所有.json文件按照JavaScript语言进行统计
+*.json linguist-language=JavaScript
